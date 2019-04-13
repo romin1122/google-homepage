@@ -1,0 +1,130 @@
+.top {
+    list-style-type: none;
+    overflow: hidden;
+    font-size: 13px;
+}
+#signin {
+    margin-top: -2px;
+    margin-right: 20px;
+    margin-left: 5px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    padding-left: 13px;
+    padding-right: 13px;
+    background-color: rgb(46, 150, 247);
+    color: white;
+    border: none;
+    font-size: 13px;
+    float: right;
+}
+#signin:active {
+    background: rgb(36, 112, 184);
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 145px;
+}
+li {
+    float: right;
+    padding: 7px;
+}
+a {
+    text-decoration: none;
+    color: black;
+} 
+a:active {
+    color: black;
+}
+a:hover {
+    text-decoration: underline;
+}
+#input {
+    width: 550px;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    margin-top: 30px; 
+    margin-bottom: 18px;
+    border-color: rgb(230, 226, 226);
+    border-radius: 40px;
+    border-width: .15px;
+    padding: 10px;
+}
+#input:hover {
+    box-shadow: 0px 0px 6px silver;
+}
+#googlesearch {
+    background: rgb(241, 241, 241);
+    border: none;
+    padding: 10px;
+    margin: 10px;
+    float: left;
+    margin-left: 490px;
+    font-size: 15px;
+    border-radius: 4px;
+    color: rgb(143, 138, 138);
+}
+#googlesearch2 {
+    background: rgb(241, 241, 241);
+    border: none;
+    padding: 10px;
+    margin: 10px;
+    float: left;
+    font-size: 15px;
+    border-radius: 4px;
+    color: rgb(143, 138, 138);
+}
+#googlesearch:hover {
+    box-shadow: 0px 0px 1px silver inset;
+    color: black;
+}
+#googlesearch2:hover {
+    box-shadow: 0px 0px 1px silver inset;
+    color: black;
+}
+#googlesearch:active {
+    border: 0.25px solid rgb(102, 154, 231);
+}
+#googlesearch2:active {
+    border: 0.25px solid rgb(102, 154, 231);
+}
+#divtext {
+    font-size: 13px;
+    margin-top: 96px;
+    margin-left: 550px;
+}
+footer {
+    background: rgb(241, 241, 241);
+    border: .25px solid silver;
+    width: 100%;
+    position:fixed;
+    bottom:0;
+    left:0;
+    height: 100px;
+}
+#fleft {
+    float: left;
+}
+hr {
+    color: white;
+}
+#cname {
+   margin-left: 20px;
+   margin-top: 8px; 
+   color: rgb(143, 138, 138);
+}
+.list {
+    list-style-type: none;
+    font-size: 13px;
+    margin-bottom: 20px;
+    margin-top: 0;
+}
+.bottomlinks:active {
+    color: orange;
+}
+.bottomlinks {
+    color:  rgb(143, 138, 138);
+}
