@@ -1,3 +1,4 @@
+The project has been updated for better design!
 I am making this project after learning or in other words after gaining skill 
 on HTML, CSS and to be able to make projects from inspect feature of the 
 browsers.

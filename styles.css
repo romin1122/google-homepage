@@ -1,0 +1,156 @@
+body {
+    width: 1280px;
+    height: 850px;
+}
+
+
+
+
+
+.navbar {
+    width: 1240px;
+    height: 50px;
+}
+.navbar li {
+    float: right;
+    list-style-type: none;
+    font-size: 13px;
+}
+#topcornerlink1 {
+    margin-top: 15px;
+}
+#topcornerlink2 {
+    margin-top: 15px;
+    margin-left: 16px;
+    margin-right: 3px;
+}
+#topcornerlink1, 
+#topcornerlink2 {
+    color: black;
+    text-decoration: none;
+}
+#topcornerlink1:active, 
+#topcornerlink2:active {
+    text-decoration: underline;
+}
+#square {
+    padding: 5px;
+    margin-right: 12.5px;
+    margin-left: 11px;
+}
+#signinbutton {
+    background-color: #4285f4;
+    color: white;
+    border: none;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    padding-left: 13px;
+    padding-right: 13px;
+}
+#signinbutton:active {
+    background: rgb(36, 112, 184);
+}
+#signin {
+    font-size: 13px;
+}
+
+
+
+
+
+#logo {
+    position: relative;
+    left: 500px;
+    top: 130px;
+    display: block;
+}
+#searchbar {
+    width: 580px;
+    height: 45px;
+    border-radius: 40px;
+    padding: 10px;
+    margin-top: 160px;
+    margin-left: 350px;
+    display: block;
+    box-shadow: 0 0 1px silver inset;
+    border: none;
+}
+#searchbar:hover,
+#searchbar:focus {
+    box-shadow: 0 0 5px rgb(172, 172, 172) ;
+}
+#googlesearch, #lucky {
+    float: left;
+    background: rgb(241, 241, 241);
+    border: none;
+    padding: 8px;
+    color: rgb(117, 117, 117);
+    font-size: 15px;
+    border-radius: 4px;
+    margin-top: 30px;
+}
+#googlesearch {
+    margin-left: 500px;
+    margin-right: 12px;
+}
+#googlesearch:hover, #lucky:hover {
+    box-shadow: 0px 0px 2px silver inset;
+    color: black;
+}
+#googlesearch:active, #lucky:active {
+    border: 0.25px solid rgb(102, 154, 231);
+}
+#lang {
+    widows: 1280px;
+    text-align: center;
+    margin-top: 100px;
+    font-size: 13px;
+}
+
+
+
+
+
+
+#body {
+    font-size: 13px;
+}
+#country {
+    font-weight: 1;
+    font-size: 15px;
+    text-align: left;
+    margin-left: 20px;
+}
+footer {
+    background: #F2F2F2;
+    color: #8f8879;
+    height: 60px;
+}
+table {
+    margin-top: 340px;
+}
+table tbody a {
+    color: #717474;
+    text-decoration: none;
+}
+table tbody a:hover {
+    color: #8f8879;
+    text-decoration: underline;
+}
+table tbody a:active {
+    color: #e15072;
+    text-decoration: underline;
+}
+#left1, #left2, #left3 {
+    margin-left: 20px;
+}
+#space {
+    width: 800px;
+    background: #F2F2F2;
+}
+#right1 {
+    margin-left: 15px;
+}
+#right2, #right3 {
+    margin-left: 15px;
+}
